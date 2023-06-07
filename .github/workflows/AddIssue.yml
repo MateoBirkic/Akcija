@@ -19,4 +19,4 @@ jobs:
         with:
           project: Board
           column: In Progress
-          repo-token: ${{ secrets.GHPROJECT_TOKEN }}
+          repo-token: ${{ secrets.SECRET }}
